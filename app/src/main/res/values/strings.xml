@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatWheel</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_premium">Get Premium</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_about">About</string>
+</resources>
